@@ -1,15 +1,15 @@
-#Flask MVC Framework
+# Flask MVC Framework
 
 Is a MVC web application framework written in Python using Flask.
 
-#Requires
+# Requires
 
 
 - PIP ([Install instructions](http://www.pip-installer.org/en/latest/installing.html))
 - VirtualEnv ([Install instructions](http://pypi.python.org/pypi/virtualenv/))
 
 
-#Getting Started
+# Getting Started
 
 
 1. Install PIP
